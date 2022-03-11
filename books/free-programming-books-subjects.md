@@ -36,6 +36,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Partial Evaluation](#partial-evaluation)
 * [Professional Development](#professional-development)
 * [Programming Paradigms](#programming-paradigms)
+* [Quantum Computing](#quantum-computing)
 * [Regular Expressions](#regular-expressions)
 * [Reverse Engineering](#reverse-engineering)
 * [Search Engines](#search-engines)
@@ -667,6 +668,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
 * [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+
+### Quantum Computing
+* [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e2p.pdf) - Thomas G. Wong
+* [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) 
+* [Quantum Computing for the Quantum Curious](https://link.springer.com/content/pdf/10.1007%2F978-3-030-61601-4.pdf) - C Hughes, J Isaacson, A Perry,R F. Sun, J. Turner
 
 
 ### Regular Expressions
